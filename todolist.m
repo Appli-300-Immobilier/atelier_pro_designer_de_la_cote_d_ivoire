@@ -13,7 +13,7 @@
   - Messenger
   - 
   - Atelier Pro-Designer de la cote d'Ivoire
-  - Num�ro WhatsApp
+  - Numéro WhatsApp
   - 
   - +225 03 13 77 32
   - WhatsApp
